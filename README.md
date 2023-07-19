@@ -1,4 +1,4 @@
-![logo](https://github.com/fatimaiqbal02/fatimaiqbal02/blob/main/FATIMA%20IQBAL%20MIRZA.gif)
+![logo](https://github.com/fatimaiqbal02/fatimaiqbal02/blob/main/fatimaiqbalmirza.png)
 <h1 align="center">Hi 👋, I'm Fatima Iqbal Mirza</h1>
 <h3 align="center">A passionate web developer from Lahore, Pakistan</h3>
 
