@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaiqbal02&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaiqbal02" /> </p>
 
 - 🌱 I’m currently learning **MERN stack, Advanced ReactJS**
+  
+- 🔧 Strong foundation in principles of OOP, DSA, OS and DB
 
 - 💬 Ask me about **html, css, js, java, sql, mysql, mern stack**
 
