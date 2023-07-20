@@ -8,7 +8,7 @@
 
 - 👩🏻‍💻 Building Dynamic and Responsive websites.
   
-- 🌱 I am currently learning and working on **MERN stack** along with my degree.
+- 🌱 I am learning and working on **MERN stack** while pursuing my degree.
 
 - 🔧 Strong foundation in the principles of OOP, DSA, OS and DB.
 
