@@ -4,7 +4,7 @@
 <h4 align="center">A passionate and dedicated web developer from Lahore, Pakistan</h4>
 
 # 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/980959effe59b8c133880c2abfac3ed5615326a86398d6114a28387319396781/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7061547a37555a625066545a4652596e6e422f67697068792e676966">
 
 <h3 align="left">About me:</h3>
 
