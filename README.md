@@ -37,7 +37,7 @@
 <h3 align="left">My stats:</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fatimaiqbal02&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=fatimaiqbal02&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=fatimaiqbal02&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 # 
 <h3 align="left">My github Trophies:</h3>
@@ -47,9 +47,5 @@
 # 
 <h3 align="left">My Most Used Languages:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaiqbal02&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatimaiqbal02&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
