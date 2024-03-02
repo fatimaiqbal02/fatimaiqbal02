@@ -10,11 +10,11 @@
 
 - 👩🏻‍💻 Building Dynamic and Responsive websites.
   
-- 🌱 I am learning and working on **MERN stack** while pursuing my degree.
+- 🌱 I am learning and working on **MERN stack** and **NextJs** while pursuing my degree.
 
 - 🔧 Strong foundation in the principles of OOP, DSA, OS and DB.
 
-- 💬 Ask me about **html, css, js, java, sql, mysql, reactJS, mern stack**.
+- 💬 Ask me about **html, css, js, java, sql, mysql, reactJS, mern stack, nextjs**.
   
 - ⭐ I am eager to collaborate, learn, and grow as a developer.
 
