@@ -36,7 +36,7 @@
 # 
 <h3 align="left">My stats:</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fatimaiqbal02&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fatimaiqbal02)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=fatimaiqbal02&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 # 
