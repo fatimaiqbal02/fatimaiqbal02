@@ -1,17 +1,14 @@
 ![logo](https://github.com/fatimaiqbal02/fatimaiqbal02/blob/main/fatimaiqbalmirza.gif)
 
-<h3 align="center">Hi there!👋, I'm Fatima Iqbal Mirza</h3>
-<h4 align="center">A passionate and dedicated web developer from Lahore, Pakistan</h4>
-
 <h3 align="left">About me:</h3>
 
-- 👩🏻‍💻 Building Dynamic and Responsive websites.
+- 👩🏻‍💻 A passionate and dedicated web developer from Lahore, Pakistan. Building Dynamic and Responsive websites.
   
 - 🌱 I am learning and working on **MERN stack** and **NextJs** while pursuing my degree.
 
 - 🔧 Strong foundation in the principles of OOP, DSA, OS and DB.
 
-- 💬 Ask me about **html, css, js, java, sql, mysql, reactJS, mern stack, nextjs**.
+- 💬 Ask me about **html, css, js, reactJS, mern stack, nextjs**.
   
 - ⭐ I am eager to collaborate, learn, and grow as a developer.
 
