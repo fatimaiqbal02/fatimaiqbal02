@@ -20,7 +20,7 @@
 
 <h3 align="left">🏆 Strong Foundations: </h3>
 
-- Strong foundation in core subjects such as OOP, OS, DSA, DB, Web), MAD
+- Strong foundation in core subjects such as OOP, OS, DSA, DB, Web, MAD
 
 <h3 align="left">✉️ My Email:</h3>
 
