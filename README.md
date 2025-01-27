@@ -1,4 +1,4 @@
-![logo](https://github.com/fatimaiqbal02/fatimaiqbal02/blob/main/fatimaiqbalmirza.gif)
+![logo](https://github.com/fatimaiqbal02/fatimaiqbal02/blob/main/fatimaiqbal02.gif)
 
 <h3 align="left">About me:</h3>
 
